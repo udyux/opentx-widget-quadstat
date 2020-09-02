@@ -27,3 +27,10 @@ Download the `.zip` file from the [latest release](https://github.com/udyux/open
 For the time being, this widget is intended to be used with the 8-cell layout (2 columns, 4 rows).
 
 Simply select the widget, configure the switches you use for arming, activating level and turtle modes and you're all set.
+
+## Screenshots
+
+<p><img src="screenshots/tx16s-quadstat-acro.png" /><br></p>
+<p><img src="screenshots/tx16s-quadstat-disarmed.png" /><br></p>
+<p><img src="screenshots/tx16s-quadstat-level.png" /><br></p>
+<p><img src="screenshots/tx16s-quadstat-turtle.png" /><br></p>
