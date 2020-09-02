@@ -20,7 +20,7 @@ This script does not rely on telemetry. It does not reflect the actual craft's s
 
 ## Installation
 
-Clone or download this repository and place the folder on your radio's SD card in the `/WIDGETS/` directory.
+Download the `.zip` file from the [latest release](https://github.com/udyux/opentx-widget-quadstat/releases/latest), extract it and place the folder in the `/WIDGETS/` directory on your transmitter's SD card.
 
 ## Usage
 

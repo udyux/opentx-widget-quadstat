@@ -1,5 +1,5 @@
 # Changelog
 
-## V1.0
+## v1.1
 
-Initial release
+Initial public release

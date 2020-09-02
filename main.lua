@@ -1,4 +1,4 @@
---[[ QuadStat v1.0
+--[[ QuadStat v1.1
 
 https://github.com/udyux/opentx-widget-quadstat
 Copyright 2020 | Nicolas Udy | MIT License
