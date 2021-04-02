@@ -36,7 +36,7 @@ local function refresh(widget)
     return
   end
 
-  local modeState = getValue(widget.options.Turtle) > 0 and "Turlte"
+  local modeState = getValue(widget.options.Turtle) > 0 and "Turtle"
     or getValue(widget.options.Level) > 0 and "Level"
     or "Acro"
 
